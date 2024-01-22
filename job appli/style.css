@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+html,body{
+    width:100%;
+    height:100%; 
+    
+}
+body{
+    background-color: rgb(218, 188, 167);
+}
+#co{
+    width:900px;
+    margin: 0px auto;
+}
+#apply{
+    width: 850px;
+    height: 600px;
+    padding: 20px;
+    background-color: gray;
+    margin:0 auto;
+    margin-top: 20px;
+    box-shadow: 4px 3px 5px rgba(1, 1, 1, 0.5);
+}
+h2{
+    margin: 0 auto;
+    color: red;
+}
+#form{
+   margin: 0 auto;
+   margin-left: 66px;
+   margin-top: 60px;
+   font-size: large;
+}
+#sub{
+    background-color: red;
+    height: 30px;;
+    width: 50px;
+    font-style: inherit;
+    margin-left:250px ;
+    margin-top: 50px;
+
+}
